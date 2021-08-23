@@ -1,0 +1,21 @@
+{
+  "name": "com.mitay-walle.animated",
+  "version": "1.0.1",
+  "displayName": "Animated",
+  "description": "Framework для анимации, с циклами, ивентами, связыванием в цепочки",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/mitay-walle/Transform_stuff#readme",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { },
+ "keywords": [
+    "Transform",
+    "Inspector",
+    "Editor"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
